@@ -8,3 +8,5 @@ Meu nome é Rafael e sou um FullStack Developer :sparkles:
 
 | 
 [![Hotmail Badge](https://img.shields.io/badge/-francisco_rafael@hotmail.com.br-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:francisco_rafael@hotmail.com.br)](mailto:francisco_rafael@hotmail.com.br)
+
+![silvarafaell's github stats](https://github-readme-stats.vercel.app/api?username=silvarafaell&show_icons=true&theme=dracula)

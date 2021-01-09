@@ -6,10 +6,8 @@
 ### Bem vindo a minha pagina!
 <p>
 
-Sou Rafael, desenvolvedor Fullstack de
+Sou Rafael, desenvolvedor Fullstack
 
-
-<b>Brasil</b>
 <img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" width="16"/>
 </p>
 

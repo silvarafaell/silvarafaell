@@ -1,7 +1,6 @@
 ## Oi, bom conhecê-lo <img 
 src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-<img align="right" width="40%" src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif"/>
 
 ### Bem vindo a minha pagina!
 <p>
@@ -14,3 +13,15 @@ Sou Rafael, desenvolvedor Fullstack de
 </p>
 
 <br/><br/>
+
+<img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" />
+
+### Falando sobre Coisas Pessoais:
+
+- 👩🏻‍💻 Atualmente estou trabalhando em algo legal :wink:;
+
+- 🌱 Atualmente estou aprendendo DotNet,C# e React; 
+
+- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
+
+- 👩🏻‍🚀 Sou Desenvolvedor;

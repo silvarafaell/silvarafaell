@@ -1,6 +1,6 @@
 ## Oi, bom conhecê-lo <img width="30" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Sunglasses emoji" />
 
-<img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
+<img align="right" width="40%" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Basecamp sky" />
 
 
 ### Bem vindo a minha pagina!

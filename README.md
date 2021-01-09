@@ -8,7 +8,6 @@
 
 Sou Rafael, desenvolvedor Fullstack
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" width="16"/>
 </p>
 
 <br/>

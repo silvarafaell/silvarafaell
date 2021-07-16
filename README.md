@@ -18,7 +18,7 @@ Sou Rafael, desenvolvedor Fullstack
 
 - 👩🏻‍💻 Atualmente estou trabalhando em algo legal :wink:;
 
-- 🌱 Atualmente estou aprendendo DotNet,C# e React; 
+- 🌱 Atualmente estudando Angular e TypeScript; 
 
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 

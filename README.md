@@ -24,9 +24,7 @@ Sou Rafael, desenvolvedor Fullstack
 
 ### Onde me encontrar:
 
-<a href="https://www.linkedin.com/in/francisco-rafael-a79330a4/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-rafael-a79330a4/)](https://www.linkedin.com/in/francisco-rafael-a79330a4/)
 
 <a href="mailto:francisco_rafael@hotmail.com.br">
   <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>

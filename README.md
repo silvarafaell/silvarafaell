@@ -14,7 +14,7 @@ Sou Rafael, desenvolvedor Fullstack
 
 ### Falando sobre Coisas Pessoais:
 
-- 👩🏻‍🚀 Sou Desenvolvedor na Pague Menos;
+- 👩🏻‍🚀 Sou Desenvolvedor na ;
 
 - 👩🏻‍💻 Atualmente estou trabalhando em algo legal :wink:;
 

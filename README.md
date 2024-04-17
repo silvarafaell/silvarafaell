@@ -18,8 +18,6 @@ Sou Rafael, desenvolvedor Fullstack
 
 - 👩🏻‍💻 Atualmente estou trabalhando em algo legal :wink:;
 
-- 🌱 Atualmente estudando Design Patterns; 
-
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 
 ### Onde me encontrar:
